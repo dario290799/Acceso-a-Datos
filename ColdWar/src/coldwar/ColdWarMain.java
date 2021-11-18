@@ -21,7 +21,7 @@ import coldwar.utildb.DatosXML;
 public class ColdWarMain extends JFrame implements ActionListener{
 	
 	public ColdWarMain() {
-		setTitle("Cold War");
+		setTitle("Doctor Strange in the Multiverse of Madness");
 		setDefaultCloseOperation(EXIT_ON_CLOSE);
 		
 		add(crearMenu());

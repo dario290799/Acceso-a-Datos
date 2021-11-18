@@ -20,7 +20,7 @@ public class Informacion extends JFrame{
          JLabel l = new JLabel(""
          		+ "<html>"
          		+ "<body>"
-         		+ "<h2> Imformacion </h2>"
+         		+ "<h2> Imformación </h2>"
          		+ "<ul>"
          		+ "<li>Version: 1.5 </li>"
          		+ "<li>Contacto: Ilerna.Lleida@gmail.com </li>"
